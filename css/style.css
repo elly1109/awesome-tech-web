@@ -3138,7 +3138,7 @@ a.edit i:before {
 /* line 30, ../sass/_header.scss */
 .header .header-wrapper .logo-box .logo a img,
 .header .header-wrapper .logo-box .logo a .logo-img {
-  max-height: 100px;
+  max-height: 94px;
 }
 /* line 36, ../sass/_header.scss */
 .header .header-wrapper .logo-box.auto-height {
