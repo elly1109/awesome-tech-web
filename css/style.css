@@ -42,7 +42,7 @@ License URI: http://themeforest.net/licenses/regular_extended
 /* line 16, ../sass/_typography.scss */
 html,
 body {
-  font-size: 14px;
+  font-size: 16px;
   height: 100%;
 }
 
@@ -63,7 +63,7 @@ body {
 /* line 31, ../sass/_typography.scss */
 body {
   color: #333;
-  font-family: "Arimo", sans-serif;
+  font-family: "Vollkorn", sans-serif;
   height: 100%;
   line-height: 1.6;
   -webkit-appearance: none;
